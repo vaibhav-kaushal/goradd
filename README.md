@@ -123,5 +123,10 @@ GoRADD was created and is maintained by [Shannon Pekary](https://github.com/spek
 ### Thanks To
 [JetBrains](https://www.jetbrains.com/go) for use of the GoLand Go Editor
 
-![BrowserStack](https://d3but80xmlhqzj.cloudfront.net/production/images/static/header/bstack-logo.svg) 
+![BrowserStack](https://d3but80xmlhqzj.cloudfront.net/production/images/static/header/bstack-logo.svg) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvaibhav-kaushal%2Fgoradd.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvaibhav-kaushal%2Fgoradd?ref=badge_shield)
+
 [BrowserStack](http://browserstack.com) for automated browser testing tools
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvaibhav-kaushal%2Fgoradd.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvaibhav-kaushal%2Fgoradd?ref=badge_large)
